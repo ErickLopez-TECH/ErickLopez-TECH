@@ -1,7 +1,19 @@
 ## Delta Technology 👋
 
 ## I a'm Erick Lopez
-
+[
+  "background" => "#151515",
+  "border" => "#E4E2E2",
+  "stroke" => "#E4E2E2",
+  "ring" => "#FB8C00",
+  "fire" => "#FB8C00",
+  "currStreakNum" => "#FEFEFE",
+  "sideNums" => "#FEFEFE",
+  "currStreakLabel" => "#FB8C00",
+  "sideLabels" => "#FEFEFE",
+  "dates" => "#9E9E9E",
+  "excludeDaysLabel" => "#9E9E9E",
+]
 - I am a sofware Engineer, in search of learning and project creation
 
 ## GitHub Stats
