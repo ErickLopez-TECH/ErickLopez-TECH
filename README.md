@@ -1,8 +1,8 @@
-## Hi there 👋
+## Delta Technology 👋
 
 ## I a'm Erick Lopez
 
-- I am a sofware Engineer
+- I am a sofware Engineer, in search of learning and project creation
 
 ## GitHub Stats
 
