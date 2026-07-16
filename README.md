@@ -24,7 +24,7 @@
 ### 🎓 Certificaciones y Logros
 
 <p align="left">
-  <a href="TU_ENLACE_AQUI" target="_blank">
+  <a href="https://certificationstech.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Certificados-FFD700?style=for-the-badge&logo=credly&logoColor=black" alt="Certificados" />
   </a>
 </p>
