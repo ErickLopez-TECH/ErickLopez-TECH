@@ -20,3 +20,11 @@
 | | | | |
 | :--- | :--- | :--- | :--- |
 | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![EmailJS](https://img.shields.io/badge/EmailJS-FF4A4A?style=for-the-badge&logo=emailjs&logoColor=white) |
+
+### 🎓 Certificaciones y Logros
+
+<p align="left">
+  <a href="TU_ENLACE_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificados-FFD700?style=for-the-badge&logo=credly&logoColor=black" alt="Certificados" />
+  </a>
+</p>
